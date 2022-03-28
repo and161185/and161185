@@ -27,4 +27,4 @@ Bachelor's degeree, Chemistry<br>
 
 **Work experience**<br>
 1C-developer<br>
-2009-2022 
+2009-2022
