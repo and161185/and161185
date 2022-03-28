@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi! I'm Andrew 👋
+I'm a senior 1c-developer (iI hope you know what this means) interested in a wide range of technologies.
+I've been learning golang for a while, so that's my "backup" cv :)
 
-<!--
-**and161185/and161185** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Golang Developer**<br>
+- Microservice design and implementation in golang
+- Writing data APIs with swagger
+- Good experience in writing SQL queries
+- Creating containerized applications
+- Writing readable ande testable code
+- CI/CD pipeline design and implementation  
 
-Here are some ideas to get you started:
+**Skills**<br>
+git, github actions, sonarqube<br>
+docker, kubernetes<br>
+MSSQL, PostgreSQL, MySql<br>
+elasticsearch, kibana<br>
+html, javaScript, css<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Education**<br>
+Geekbrains "Go-developer" course<br>
+2021-2022<br>
+
+Ivanovo State University of Chemistry and Technology<br>
+Bachelor's degeree, Chemistry<br>
+2002-2007<br>
+
+**Work experience**<br>
+1C-developer<br>
+2009-2022 
