@@ -1,5 +1,5 @@
 ### Hi! I'm Andrew 👋
-I'm a senior 1c-developer (iI hope you know what this means) interested in a wide range of technologies.
+I'm a senior 1c-developer (I hope you know what this means) interested in a wide range of technologies.
 I've been learning golang for a while, so that's my "backup" cv :)
 
 **Junior Golang Developer**<br>
@@ -7,7 +7,7 @@ I've been learning golang for a while, so that's my "backup" cv :)
 - Writing data APIs with swagger
 - Good experience in writing SQL queries
 - Creating containerized applications
-- Writing readable ande testable code
+- Writing readable and testable code
 - CI/CD pipeline design and implementation  
 
 **Skills**<br>
