@@ -1,4 +1,4 @@
-### Hi! I'm Andrew 👋
+### Hi! I'm Andrey 👋
 I'm a senior 1c-developer (I hope you know what this means) interested in a wide range of technologies.
 I've been learning golang for a while, so that's my cv :)
 
