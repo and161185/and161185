@@ -1,6 +1,6 @@
 ### Hi! I'm Andrew 👋
 I'm a senior 1c-developer (I hope you know what this means) interested in a wide range of technologies.
-I've been learning golang for a while, so that's my "backup" cv :)
+I've been learning golang for a while, so that's my cv :)
 
 **Junior Golang Developer**<br>
 - Microservice design and implementation in golang
@@ -27,4 +27,4 @@ Bachelor's degeree, Chemistry<br>
 
 **Work experience**<br>
 1C-developer<br>
-2009-2022 
+2009-2025 
