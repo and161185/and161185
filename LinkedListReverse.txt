@@ -1,0 +1,58 @@
+// You can edit this code!
+// Click here and start typing.
+package main
+
+import "fmt"
+
+func main() {
+	e3 := &Elem{3, nil}
+	e5 := &Elem{5, e3}
+	e7 := &Elem{7, e5}
+	e8 := &Elem{8, e7}
+	e9 := &Elem{9, e8}
+
+	list := &List{e9}
+	Print(list)
+	list = Invert(list)
+	Print(list)
+}
+
+// 9 -> 8 -> 7 -> 5 -> 3
+
+type Elem struct {
+	Data int
+	Next *Elem
+}
+
+type List struct {
+	Head *Elem
+}
+
+// 3 -> 5 -> 7 -> 8 -> 9
+func Invert(list *List) *List {
+	var newNext *Elem
+	current := list.Head
+	for current != nil {
+		tmp := current.Next
+		current.Next = newNext
+		newNext = current
+		current = tmp
+	}
+
+	list.Head = newNext
+
+	return list
+}
+
+func Print(list *List) {
+	elem := list.Head
+	for {
+		if elem == nil {
+			break
+		}
+		fmt.Print(elem.Data, "->")
+
+		elem = elem.Next
+	}
+	fmt.Println("")
+}
